@@ -1,0 +1,1 @@
+Mock interviews challenges in JavaScript language.
